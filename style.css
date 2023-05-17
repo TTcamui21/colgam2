@@ -1,0 +1,22 @@
+.rodape  {
+    position: fixed ;
+ color:gray;
+ width: 100%;
+ background-color:#c7f9cc;
+bottom:0;
+}
+
+body  {
+
+    background-color:#57cc99;
+}
+ img {
+    width:37%; 
+    border-radius:4px;
+    padding:10px;
+    box-shadow:#38a3a5;
+ }
+ img:hover{
+    border-radius:140px;
+
+ }
